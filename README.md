@@ -17,6 +17,8 @@ This project is to create a command-line application that dynamically generates 
 
 - [Questions](#questions)
 
+- [Walkthrough Video Link](#walkthoughvideolink)
+
 ## Installation
 
 To install necessary dependencies, run the following command:
@@ -44,6 +46,9 @@ To run tests, run the following command:
 ```
 N/A
 ```
+## Walkthrough Video Link
+
+https://drive.google.com/file/d/1G6ftc97p_N7dYplG_SekBItEtzoQB-lR/view
 
 ## Questions
 
