@@ -1,9 +1,9 @@
-# Readme-generator
+# john doe good
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
 
-This project is to create a Readme-generator
+this is a good example
 
 ## Table of Contents 
 
@@ -22,12 +22,12 @@ This project is to create a Readme-generator
 To install necessary dependencies, run the following command:
 
 ```
-N/A
+run any command
 ```
 
 ## Usage
 
-N/A
+this is the best repo
 
 ## License
 
@@ -35,17 +35,17 @@ https://opensource.org/licenses/Apache-2.0
   
 ## Contributing
 
-N/A
+anything
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-N/A
+run any command
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at rohangovindnegi@yahoo.com. You can find more of my work at [rohanrulz](https://github.com/rohanrulz/).
+If you have any questions about the repo, open an issue or contact me directly at johndoe12@yahoo.com. You can find more of my work at [john-doe](https://github.com/john-doe/).
 

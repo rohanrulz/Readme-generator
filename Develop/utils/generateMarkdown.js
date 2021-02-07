@@ -87,6 +87,8 @@ ${data.description}
 
 - [Questions](#questions)
 
+- [Walkthorugh Video Link](#walkthough video link)
+
 ## Installation
 
 To install necessary dependencies, run the following command:
