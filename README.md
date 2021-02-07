@@ -1,9 +1,9 @@
-# john doe good
+# Readme-generator
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
 
-this is a good example
+This project is to create a command-line application that dynamically generates a professional Readme.md file.
 
 ## Table of Contents 
 
@@ -22,12 +22,12 @@ this is a good example
 To install necessary dependencies, run the following command:
 
 ```
-run any command
+N/A
 ```
 
 ## Usage
 
-this is the best repo
+N/A
 
 ## License
 
@@ -35,17 +35,17 @@ https://opensource.org/licenses/Apache-2.0
   
 ## Contributing
 
-anything
+N/A
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-run any command
+N/A
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at johndoe12@yahoo.com. You can find more of my work at [john-doe](https://github.com/john-doe/).
+If you have any questions about the repo, open an issue or contact me directly at rohangovindnegi@yahoo.com. You can find more of my work at [rohanrulz](https://github.com/rohanrulz/).
 

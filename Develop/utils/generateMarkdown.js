@@ -87,8 +87,6 @@ ${data.description}
 
 - [Questions](#questions)
 
-- [Walkthorugh Video Link](#walkthough video link)
-
 ## Installation
 
 To install necessary dependencies, run the following command:
@@ -116,10 +114,6 @@ To run tests, run the following command:
 \`\`\`
 ${data.test}
 \`\`\`
-
-## Walkthorugh Video Link
-
-https://drive.google.com/file/d/1G6ftc97p_N7dYplG_SekBItEtzoQB-lR/view
 
 ## Questions
 
