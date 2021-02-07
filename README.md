@@ -17,7 +17,7 @@ This project is to create a command-line application that dynamically generates 
 
 - [Questions](#questions)
 
-- [Walkthrough Video Link](#walkthoughvideolink)
+- [Walkthrough Video Link](#walkthroughvideolink)
 
 ## Installation
 
